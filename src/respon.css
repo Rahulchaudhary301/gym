@@ -1,0 +1,411 @@
+@media screen and (max-width:500px){
+
+
+
+
+        
+
+    .icons{
+        width: 20px;
+        font-size: 1.2rem;
+        cursor: none;
+      }
+      
+      .mai{
+        width: 25px;
+        font-size: 1.2rem;
+        
+      }
+
+      .emailNum .mail p{
+        font-size: 0.5rem;
+      }
+
+      .logo h1{
+        font-size: 1.5rem;
+     }
+     
+     .menu ul li{
+     display: none;
+      }
+      .getButton{
+        display: none;
+      }
+
+
+
+.bardiv{
+    width: 40px;
+    height: 30px;
+    border-radius: 4px;
+    background: #ff6822;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    transition: 0.4s all ease-in-out;
+    color: white;
+}
+
+.bardiv:hover{
+    transform: scale(0.9);
+}
+
+
+.barr{
+    font-size: 1.5rem;
+}
+
+.sl{
+    overflow: hidden;
+
+    
+}
+
+
+.slingbar{
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 45%; /* Adjust width as needed */
+    height: 100%; /* Ensure sidebar covers entire viewport */
+    background: #9a015f;
+    z-index: 5;
+    transition: 0.6s all ease-in-out;
+    transform: translateX(105%);
+    overflow: hidden; /* Hide overflow content */
+    box-sizing: border-box; /* Include padding and border in width and height */
+    /* Additional styles (if applicable) */
+    padding: 20px; /* Adjust padding as needed */
+}
+
+.activeee{
+    transform: translateX(0%)
+
+}
+
+
+
+.closeee{
+  position: absolute;
+  width: 40px;
+  height: 30px;
+  border-radius: 2px;
+  top: 2px;
+  left: 2px;
+  background: #dcd5d5;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  transition: 0.4s all ease-in-out;
+}
+
+.closeee:hover{
+transform: scale(0.9);
+}
+
+
+
+
+
+.clcv{
+    font-size: 1.7rem;
+}
+
+
+.homeContainer::before{
+    background-image: url('../src/img/hero9.jpg');
+}
+
+
+
+ /* home.... */
+
+ .heding h1{
+    font-size: 1.2rem;
+    margin-top: 180px;
+}
+
+.pragragh p{
+    font-size: 0.7rem;
+}
+.heding{
+    margin-top: 40px;
+  }
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+/* lastdivvvv.......... */
+
+.maindivv{
+    font-size: 0.7rem;
+   }
+   
+ 
+   
+   /* scrollbar  /////////////////// */
+ 
+ 
+  .smallbar{
+     position: fixed;
+     width: 35px !important;
+     height: 45px;
+     right: 10px;
+     overflow: hidden;
+         
+     } 
+ 
+ 
+ 
+ 
+       /* slidingBarrr.......... */
+ 
+ 
+       .slidngbox{
+         width: 100%;
+       }
+       
+       .slidingdata{
+         width: 100%;
+       }
+ 
+       .lll{
+         width: 100%;
+         display: flex;
+         justify-content: center;
+         align-items: center;
+         margin-top: 5px;
+       }
+ 
+       .lll h1{
+         font-size: 2rem;
+         font-weight: bold;
+       }
+  .lll span{
+         font-size: 3rem;
+       }
+ 
+ 
+   .slidingMenu{
+    
+     width: 100%;
+         
+       }
+ 
+       .slidingMenu ul {
+         width: 100%;
+       
+       }
+      
+ .slidingMenu ul li{
+     display: block;
+     height: 35px;
+     margin-top: 20px;
+     background-color: #ffbc11;
+     font-size: 1.2rem;
+     color: rgb(5, 2, 198);
+     font-weight: bold;
+     border-radius: 5px;
+     display: flex;
+     cursor: none;
+     justify-content: center;
+     align-items: center;
+    transition: 0.4s all ease-in-out;
+ 
+ }
+ 
+ .slidingMenu ul li:hover{
+   transform: scale(0.9);
+   background: #17cf0a;
+ }
+ 
+ 
+ .gtbbb{
+     background: #000;
+ }
+ 
+ 
+ 
+ 
+ 
+ .gebut{
+     margin-top: 20px;
+     margin: 6px;
+     width: 90px;
+     height: 45px;
+     color: rgb(255, 255, 255);
+     font-size: 0.8rem;
+     cursor: pointer;
+     position: relative;
+     overflow: hidden;
+     z-index: 4;
+     border: 2px solid #ff6822;;
+     transition: transform 0.3s ease;
+   }
+ 
+ 
+ .gebut::before{
+     content: '';
+     position: absolute;
+     top: 0;
+     left: 0;
+     width: 10px;
+     height: 10px;
+     background: #ff6822;
+     transform: translate(460%,150%) scale(11);
+     transition: 0.4s all ease-in-out;
+     z-index: -1;
+     border: 0px;
+   }
+   .gebut:hover:before{
+     transform: translate(400%,150%) scale(0);
+    
+   }
+   .gebut:hover{
+     background: #f0050500;
+     border: 1px solid white;
+     transform: scale(0.9);
+   }
+    
+ 
+ 
+   .slibutt{
+     margin: 0px;
+     margin-top: 25px;
+   }
+ 
+ 
+ 
+ 
+
+
+
+}
+
+
+
+
+
+
+
+
+
+@media (min-width: 1031px) {
+
+    /* boyh are disible dive and only show during phone version */
+
+.slingbar{
+    display: none;
+  }
+    
+}
+  

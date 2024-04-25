@@ -1,0 +1,1235 @@
+@media screen and (min-width: 505px) and (max-width: 1024px){
+
+    body {
+        overflow-x: hidden;
+
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+
+
+    .menu ul li{
+        font-size: 0.8rem;  
+    }
+    
+    .getButton{
+        width: 90px;
+        height: 40px;
+        font-size: 0.8rem;
+    }
+
+   
+
+
+
+    /* home.... */
+
+    .btn1{
+        margin: 20px;
+        width: 130px;
+        height: 50px;
+    }
+
+    .heding h1{
+        font-size: 2.1rem;
+
+    }
+
+    .pragragh p{
+        font-size: 1rem;
+    }
+
+
+  
+/* About secton */
+
+
+
+.card .logo{
+    font-size: 2.5rem;
+   
+   }
+
+.card .pra p{
+  font-size: 0.8rem;
+  text-align: justify;
+  
+  }
+
+  .card h2{
+    font-size: 1rem;
+  }
+
+  .card{
+    width: 25%;
+    height: 280px;
+   
+  }
+
+  .aboutData{
+    font-size: 0.9rem;
+  }
+
+  .aboutData h1{
+    font-size: 1.5rem;
+    margin-top: 20px;
+  }
+
+
+  .aboutData .paragr p{
+    font-size: 0.8rem;
+  }
+
+
+
+
+
+  /* Classessss sectons  */
+
+/* 
+.classContainer {
+
+background: #35d227;
+
+} */
+
+
+
+  .headerConatiner{
+    margin-top: 1px;
+}
+
+.classHeder{
+    height: 250px;
+  }
+
+  .classHeder h1{
+    font-size: 1.8rem;
+  }
+  
+  .prra{
+    margin-top: 20px;
+  }
+  .prra p{
+    text-align: center;
+    font-size: 1rem;
+  }
+  
+.ab{
+    height: 450px;
+}
+
+
+
+ 
+#cl1{
+    height: 430px;
+    height: 430px;
+  }
+
+  .section1 {
+    margin-top: 10px;
+  }
+  
+
+
+  .classoverlay h1{
+    font-size: 1.2rem;
+  }
+  
+  .paragraph p{
+    font-size: 0.8rem;
+  }
+   
+
+
+
+
+#cl2{
+    height: 430px;
+    
+  }
+
+
+  .section2{
+    margin-bottom: 40px;
+  }
+ 
+
+
+  #cl3{
+    height: 350px;
+  }
+
+
+
+  #cl4{
+    height: 430px;
+  }
+  
+  #cl5{
+    height: 430px;
+  }
+  
+
+  .section3Container{
+    
+    margin-bottom: 80px;
+  }
+
+
+
+/* Ready to Help.......... */
+
+.readyContent h1{
+    font-size: 2.5rem;
+}
+
+.helpPara p{
+   
+    font-size: 1rem;
+    text-align: justify;
+  }
+
+  .builderpic{
+    width: 35%;
+    height: 500px;
+
+  }
+
+  .builderImg{
+    top: 30px;
+  }
+  .readyBut{
+    margin-left: 0;
+    margin-top: 40px;
+  }
+
+
+
+  .nmnm{
+    margin-top: 50px;
+}
+
+  
+/* Our recent blogs ........ */
+
+.recentHederbox h1{
+    font-size: 1.8rem;
+  }
+  
+
+  .recentHederbox p{
+    font-size: 1.1rem;
+   
+  }
+
+  .recentBox{
+    width: 240px;
+    height: 470px;
+    
+  }
+
+  .imgdiv{
+    height: 280px;
+  }
+
+ 
+  
+
+.recentCard h2{
+    font-size: 1.3rem;
+    }
+
+.recentCard p{
+
+        font-size: 1rem;
+      }
+
+
+
+
+
+
+      .dateee{
+        width: 70px;
+        height: 48px;
+        top: 260px;
+        left: 10px;
+        
+      }
+
+
+
+      /* footterrrrrr */
+
+      .footerdiv1 h1{
+        font-size: 2rem;
+      }
+
+      .footerdiv1 h1 span{
+        font-size: 45px;
+      }
+
+
+      .footerdiv1 p{
+        font-size: 1rem;
+        margin-top: 15px;
+       
+      }
+      
+
+
+      .footerDiv2Data h1{
+        font-size: 1.5rem;
+       }
+
+       .footerDiv2Data ul li{
+        font-size: 1rem;
+        
+        }
+  
+
+
+
+        .footerDiv3Data h1{
+            font-size: 1.5rem;
+        }
+
+        .imgbox{
+            width: 50px;
+            height: 60px;
+            margin: 5px;
+            overflow: hidden;
+          
+          }
+
+          .imgbox img{
+            object-fit: cover;
+           
+          }
+
+
+
+
+
+          .footerDiv4Data h1{
+            font-size: 1.5rem;
+          }
+
+          .footerDiv4Data input{
+            height: 45px;
+          } 
+          
+          .sendbuttion{
+            height: 30px;
+        }
+
+        .buttt{
+            width: 80px;
+            height: 40px;
+        }
+        .footerDiv4Data h2{
+            font-size: 1.5rem;
+            margin-top: 60px;
+        }
+
+    
+
+
+
+
+        .slingbarr{
+          display: none;
+        }
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:500px){
+
+
+    
+
+   
+    
+
+      .icons{
+        width: 20px;
+        font-size: 1.2rem;
+        cursor: none;
+      }
+      
+      .mai{
+        width: 25px;
+        font-size: 1.2rem;
+        
+      }
+
+      .emailNum .mail p{
+        font-size: 0.5rem;
+      }
+
+      .logo h1{
+        font-size: 1.5rem;
+     }
+     
+     .menu ul li{
+     display: none;
+      }
+      .getButton{
+        display: none;
+      }
+
+
+
+.bardiv{
+    width: 40px;
+    height: 30px;
+    border-radius: 4px;
+    background: #ff6822;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    transition: 0.4s all ease-in-out;
+    color: white;
+}
+
+.bardiv:hover{
+    transform: scale(0.9);
+}
+
+
+.barr{
+    font-size: 1.5rem;
+}
+
+.sl{
+    overflow: hidden;
+
+    
+}
+
+
+.slingbarr{
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 45%; /* Adjust width as needed */
+    height: 100%; /* Ensure sidebar covers entire viewport */
+    background: #030126;
+    z-index: 5;
+    transition: 0.6s all ease-in-out;
+    transform: translateX(105%);
+    overflow: hidden; /* Hide overflow content */
+    box-sizing: border-box; /* Include padding and border in width and height */
+    /* Additional styles (if applicable) */
+    padding: 20px; /* Adjust padding as needed */
+}
+
+.activeee{
+    transform: translateX(0%)
+
+}
+
+
+
+.closeee{
+  position: absolute;
+  width: 40px;
+  height: 30px;
+  border-radius: 2px;
+  top: 2px;
+  left: 2px;
+  background: #ff6822;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  transition: 0.4s all ease-in-out;
+}
+
+.closeee:hover{
+transform: scale(0.9);
+}
+
+
+
+
+
+.clcv{
+    font-size: 1.7rem;
+}
+
+
+.homeContainer::before{
+    background-image: url('../src/img/hero9.jpg');
+}
+
+
+
+ /* home.... */
+
+ .heding h1{
+    font-size: 1.2rem;
+    margin-top: 180px;
+}
+
+.pragragh p{
+    font-size: 0.7rem;
+}
+.heding{
+    margin-top: 40px;
+  }
+
+ 
+
+
+
+
+/* About secton */
+
+
+.card .logo{
+    font-size: 1.2rem;
+   
+   }
+
+.card .pra p{
+  font-size: 0.4rem;
+  text-align: justify;
+  
+  }
+
+  .card h2{
+    font-size: 0.5rem;
+  }
+  .card{
+    width: 45%;
+    height: 160px;
+   
+  }
+
+  .cards{
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+    
+   }
+
+  
+
+  .aboutData{
+    font-size: 0.4rem;
+  }
+
+  .aboutData h1{
+    font-size: 1rem;
+    margin-top: 20px;
+  }
+
+
+  .aboutData .paragr p{
+    font-size: 0.6rem;
+  }
+
+
+
+  .instrionMAin{
+   
+    height: 90%;
+  }
+
+  .instrction{
+    flex-direction: column;
+  }
+
+  .aboutDataContainer{
+    width: 100%;
+}
+
+.aboutpicContainer{
+    width: 100%;
+    margin-top: 40px;
+    
+}
+
+
+
+/* Classessss sectons  */
+
+
+.headerConatiner{
+    margin-top: 150px;
+}
+
+.classHeder{
+    height: 200px;
+    width: 50%;
+  }
+
+.classHeder h1{
+    font-size: 1.2rem;
+  }
+  
+  .prra{
+    margin-top: 20px;
+  }
+  .prra p{
+    text-align: center;
+    font-size: 0.8rem;
+  }
+
+
+
+  .section1{
+    flex-direction: column;
+    height: 810px;
+    margin-top: 10px;
+  }
+
+  .ab{
+    width: 100%;
+   
+}
+
+#cl1{
+    height: 360px;
+    
+  }
+
+  #cl2{
+    height: 360px;
+  }
+
+  #cl3{
+ 
+    height: 360px;
+  }
+
+  #cl4{
+  
+    height: 360px;
+  }
+  
+  #cl5{
+    height: 360px;
+  }
+  
+.bc{
+    width: 100%;
+}
+
+.ef{
+    margin-left: 0px;
+}
+
+.de{
+    margin-left: 0px; 
+}
+
+
+
+.overbut{
+    font-size: 0.6rem;
+}
+
+
+.allsecond{
+    display: flex;
+    flex-direction: column;
+
+    
+}
+
+.clContainer{
+    width: 100%;
+    height: 390px;
+}
+
+.cl2Container{
+    width: 100%;
+    margin-right: 0px;
+    height: 390px;
+}
+
+
+.section3Container{
+  margin-top: 800px;
+  margin-bottom: 400px;
+}
+
+
+
+
+/* Ready to Help.......... */
+
+
+.readyContent h1{
+    font-size: 1.4rem;
+}
+
+.helpPara p{
+   
+    font-size: 0.7rem;
+    text-align: justify;
+  }
+
+  .builderpic{
+    width: 35%;
+    height: 400px;
+
+  }
+
+  .builderImg{
+    top: 30px;
+  }
+  .readyBut{
+    margin-left: 0;
+    margin-top: 40px;
+  }
+  .redyContainer{
+   height: 430px;
+    }
+
+
+
+    /* our experts..... */
+
+
+    .ExpertHead h1{
+        font-size: 1.3rem;
+      }
+      
+      .ExpertHead p{
+        font-size: 0.8rem;
+        text-align: center;
+        margin-top: 10px;
+      }
+      
+
+      .cardConainer{
+        cursor: none;
+      }
+
+      .socalIcons{
+        cursor: none;
+      }
+
+  
+/* Our recent blogs ........ */
+
+.recentUpdateContainer{
+   
+    height: 1700px;
+}
+
+
+.recentHederbox{
+    width: 100%;
+}
+
+.recentHederbox h1{
+    font-size: 1.5rem;
+  }
+  
+
+  .recentHederbox p{
+    font-size: 0.9rem;
+   
+  }
+  .dateee{
+    width: 70px;
+    height: 55px;
+    background: #ff6822;
+    position: absolute;
+    top: 250px;
+    left: 10px;
+    
+  }
+
+  .recentCarddiv{
+    flex-direction: row;
+    flex-wrap: wrap;
+
+  }
+.recentBox{
+  width: 100%;
+  height: 450px;
+  margin-top: 20px;
+  cursor: none;
+}
+
+.imgdiv{
+    height: 280px;
+  }
+
+ 
+  
+
+.recentCard h2{
+    font-size: 1.3rem;
+    }
+
+.recentCard p{
+
+        font-size: 1rem;
+      }
+
+
+
+
+
+
+ /* footterrrrrr */
+
+ .footerdiv1 h1{
+    font-size: 2rem;
+  }
+
+  .footerdiv1 h1 span{
+    font-size: 40px;
+  }
+
+
+  .footerdiv1 p{
+    font-size: 0.7rem;
+   
+  }
+  
+
+  .footerDiv2Data h1{
+    font-size: 1.5rem;
+   }
+
+   .footerDiv2Data ul li{
+    font-size: 0.8rem;
+    
+    }
+
+
+    .footerDiv2Data ul li{
+
+        margin-top: 5px;
+      
+        }
+        
+    
+
+
+
+    .footerDiv3Data h1{
+        font-size: 1.3rem;
+        margin-top: 0;
+        margin-bottom: 0px;
+    }
+
+
+    .imgdiv{
+        justify-content: space-between;
+        flex-wrap:wrap;
+        margin-top: 2px;
+       
+      }
+
+    .imgbox{
+        width: 38px;
+        height: 38px;
+        margin: 0;
+        overflow: hidden;
+      
+      }
+
+      .imgbox img{
+        object-fit: cover;
+       
+      }
+
+
+
+
+
+      .footerDiv4Data h1{
+        font-size: 1.2rem;
+        margin-top: 0px;
+      }
+
+      .footerDiv4Data input{
+        height: 29px;
+        font-size: 1rem;
+        margin-top: 10px;
+      } 
+      
+      .sendbuttion{
+        height: 10px;
+    }
+
+    .buttt{
+
+        width: 40px;
+        height: 28px;
+    }
+
+
+    .footerDiv4Data h2{
+        font-size: 1rem;
+        margin-top: 60px;
+    }
+
+
+
+
+
+    .footerContainer{
+        height: 520px;
+    }
+
+
+
+    .footerBody{
+       flex-wrap: wrap;
+
+    }
+
+    .footerdiv1{
+        width: 62%;
+        height: 250px;
+       
+    }
+
+    .footerdiv2{
+        width: 30%;
+        height: 250px;
+        
+    }
+
+    .footerdiv3{
+        width: 44%;
+        height: 250px;
+       
+    }
+
+
+    .ico{
+        cursor: none;
+    }
+
+    .footerdiv4{
+        width: 49%;
+        height: 250px;
+       
+    }
+
+
+    .icv{
+
+        font-size: 1.2rem;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* lastdivvvv.......... */
+
+.maindivv{
+   font-size: 0.7rem;
+  }
+  
+
+  
+  /* scrollbar  /////////////////// */
+
+
+ .smallbar{
+    position: fixed;
+    width: 35px !important;
+    height: 45px;
+    right: 10px;
+    overflow: hidden;
+        
+    } 
+
+
+
+
+      /* slidingBarrr.......... */
+
+
+      .slidngbox{
+        width: 100%;
+      }
+      
+      .slidingdata{
+        width: 100%;
+      }
+
+      .lll{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 5px;
+      }
+
+      .lll h1{
+        font-size: 2rem;
+        font-weight: bold;
+      }
+ .lll span{
+        font-size: 3rem;
+      }
+
+
+  .slidingMenu{
+   
+    width: 100%;
+        
+      }
+
+      .slidingMenu ul {
+        width: 100%;
+      
+      }
+     
+.slidingMenu ul li{
+    display: block;
+    height: 35px;
+    margin-top: 20px;
+    background-color: #0c1f3d;
+    font-size: 1.2rem;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    border-radius: 5px;
+    display: flex;
+    cursor: none;
+    justify-content: center;
+    align-items: center;
+   transition: 0.4s all ease-in-out;
+   z-index: -1;
+
+}
+
+.slidingMenu ul li:hover{
+  transform: scale(0.9);
+  background: #17cf0a;
+}
+
+
+.gtbbb{
+    background: #000;
+}
+
+
+
+
+
+.gebut{
+    margin-top: 20px;
+    margin: 6px;
+    width: 90px;
+    height: 45px;
+    color: rgb(255, 255, 255);
+    font-size: 0.8rem;
+    cursor: pointer;
+    position: relative;
+    overflow: hidden;
+    z-index: 4;
+    border: 2px solid #ff6822;;
+    transition: transform 0.3s ease;
+  }
+
+
+.gebut::before{
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 10px;
+    height: 10px;
+    background: #ff6822;
+    transform: translate(460%,150%) scale(11);
+    transition: 0.4s all ease-in-out;
+    z-index: -1;
+    border: 0px;
+  }
+  .gebut:hover:before{
+    transform: translate(400%,150%) scale(0);
+   
+  }
+  .gebut:hover{
+    background: #f0050500;
+    border: 1px solid white;
+    transform: scale(0.9);
+  }
+   
+
+
+  .slibutt{
+    margin: 0px;
+    margin-top: 25px;
+  }
+
+
+
+
+
+  /* contact/............. */
+
+.contactInfo h2{
+  font-size: 1rem;
+}
+
+.numberDiv p{
+  font-size: 0.6rem;
+}
+
+.dropMessage h2{
+  font-size: 1rem;
+}
+
+.contactdata{
+  height: 50px;
+}
+.inutBoxx input{
+  font-size: 0.7rem;
+}
+
+#description{
+  font-size: 0.7rem;
+}
+.mrg{
+  margin-left: 0;
+
+}
+
+.mrg:hover{
+  color: #000;
+  border: 2px solid  #ff6822;
+}
+
+
+.mapBody{
+  width: 100%;
+  height: 250px;
+}
+
+
+
+
+
+
+  /* bmi,............ */
+
+
+ .BMICalculator h2{
+  font-size: 1rem;
+ }
+
+
+ .llb{
+  font-size: 0.7rem;
+ }
+
+ .resulbmibody h2{
+  font-size: 1rem;
+ }
+.bmi-category-indicator{
+height: 30px;
+width: 100%;
+}
+
+.bmiInputData {
+  width: 60%;
+}
+
+.bmii {
+  margin-left: 0;
+}
+
+
+
+}
+
+
+
+
+
+
+
+
+
+@media (min-width: 1031px) {
+
+    /* boyh are disible dive and only show during phone version */
+
+.slingbarr{
+    display: none;
+  }
+    
+}
+  
